@@ -1,0 +1,12 @@
+.home_content_row{
+    justify-content: space-between;
+    display: flex;
+    align-items: center;
+}
+.home_content h2{
+    font-weight: 600;
+    line-height: 55px;
+}
+.home_content{
+    padding: 20px;
+}
